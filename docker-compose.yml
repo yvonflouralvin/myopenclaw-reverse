@@ -1,6 +1,6 @@
 version: '3.8'
 services:
-  nginx:
+  nginx_openclaw:
     build: .
     container_name: nginx_openclaw
     expose:
